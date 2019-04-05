@@ -1,3 +1,1 @@
-For now it's just fun stuff. Portfolio under construction.
-
-Funn stuff is [here](https://sharp-lumiere-adbdd6.netlify.com)
+[Portfolio](https://sharp-lumiere-adbdd6.netlify.com) under construction. For now it just a skeleton. New feachers will be added soon.
