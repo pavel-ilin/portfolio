@@ -42,7 +42,7 @@ a {
 #grid1 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  margin: 20px 0 0 auto;
+  margin: 10% 0 0 auto;
   text-align: center;
   font-size: 30px;
   width: 100%;
@@ -61,7 +61,7 @@ a {
   text-align: center;
   font-size: 30px;
   width: 100%;
-  margin: 10% 0 10% auto;
+  margin: 20% 0 20% auto;
   grid-template-rows: auto;
   grid-gap: 10px;
   justify-items: center;
