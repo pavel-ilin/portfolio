@@ -31,11 +31,15 @@ a {
   color: green;
 }
 
+img {
+  height: 50%;
+}
+
 #hello {
   top: 0;
   background: #e0ebe8;
   min-height: 55vh;
-  padding-top: 45vh;
+  padding-top: 25vh;
   text-align: center;
 }
 
