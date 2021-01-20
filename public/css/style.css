@@ -31,17 +31,28 @@ a {
   color: green;
 }
 
+img {
+  height: 50%;
+  width: 50%;
+}
+
+p {
+  font-size: 25px;
+  margin: 30px 30px 30px 30px;
+}
+
 #hello {
   top: 0;
   background: #e0ebe8;
   min-height: 55vh;
-  padding-top: 45vh;
+  padding-top: 6vh;
   text-align: center;
+  padding-bottom: 10px;
 }
 
 #grid1 {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   margin: 10% 0 0 auto;
   text-align: center;
   font-size: 30px;
