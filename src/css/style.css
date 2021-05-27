@@ -43,7 +43,7 @@ ul {
   margin: 10px 0 10px auto;
   width: 35vw;
   justify-content: space-around;
-
+  display: contents;
 }
 
 li {
