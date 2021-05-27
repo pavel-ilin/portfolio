@@ -4,7 +4,6 @@ import './css/style.css'
 import constants from './utils/constants'
 
 const App = () => {
-  
   const renderItems = () => {
     let id = 0
     return constants.items.map((result) => {
